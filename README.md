@@ -40,11 +40,12 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: PAKANATI MONISH
+### Name: Titus Ratna Kumar Karivella
 
-### Register Number: 212224240109
+### Register Number: 212224230292
 
 ```python
+
 class Model(nn.Module):
     def __init__(self, in_features, out_features):
         super().__init__()
