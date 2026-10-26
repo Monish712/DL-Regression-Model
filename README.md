@@ -45,7 +45,6 @@ Use the trained model to predict  for a new input value .
 ### Register Number: 212224240109
 
 ```python
-
 class Model(nn.Module):
     def __init__(self, in_features, out_features):
         super().__init__()
