@@ -39,10 +39,8 @@ Plot the original dataset along with the learned linear model.
 Use the trained model to predict  for a new input value .
 
 ## PROGRAM
-
-### Name: Titus Ratna Kumar Karivella
-
-### Register Number: 212224230292
+## NAME : PAKANATI MONISH
+## REG no. : 212224240109
 
 ```python
 
